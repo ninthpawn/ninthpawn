@@ -1,4 +1,3 @@
-# README
 ## Hello There 👋
 <a href="https://twitter.com/erdemkbc_"> <img align="left" alt="Erdem's Twitter" width="25px" src= "https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/twitter.svg"/> </a>
 <a href="https://www.linkedin.com/in/erdemkabaca/"> <img align="left" alt="Erdem's LinkedIn" width="25px" src= "https://raw.githubusercontent.com/berkayahi/berkayahi/main/images/linkedin.svg"/> </a>
