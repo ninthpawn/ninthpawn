@@ -10,4 +10,5 @@ I'm Erdem, and I'm a junior Mathematical Engineering student who is trying to br
 
 I do researches related to data science, cybersecurity, economics and application development.
 
-## GitHub Stats[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninthpawn&theme=merko&show_icons=true)](https://github.com/ninthpawn/ninthpawn)
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninthpawn&theme=merko&show_icons=true)](https://github.com/ninthpawn/ninthpawn)
