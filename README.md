@@ -7,7 +7,7 @@
 
 I'm Erdem, and I'm a junior Mathematical Engineering student who is trying to broaden his horizons in software development and systems development life cycle. Also I have huge interest in entrepreneurship ecosystem.
 
-I do researches related to data science, cybersecurity, economics and application development.
+I do researches related to data science, cybersecurity, application development, economics and advanced mathematics topics.
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninthpawn&theme=merko&show_icons=true)](https://github.com/ninthpawn/ninthpawn)
